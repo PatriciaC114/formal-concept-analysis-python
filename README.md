@@ -53,12 +53,15 @@ Checks whether one attribute set implies another over the given relation.
 
 ### Input relation
 ![Input relation](images/conxep.jpg)
-![Input relation](images/diagrama.jpg)
+
 
 ### Concept lattice
-![Concept lattice](images/dataframe.jpg)
+![Input relation](images/diagrama.jpg)
+
 
 ### Program output
+- Dataframe
+![Concept lattice](images/dataframe.jpg)
 - The concept table
 ![Table](images/tabla.jpg)
 - The classification of attributes

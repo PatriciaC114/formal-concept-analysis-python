@@ -60,12 +60,16 @@ Checks whether one attribute set implies another over the given relation.
 
 
 ### Program output
+
 - Dataframe
 ![Concept lattice](images/dataframe.jpg)
+
 - The concept table
 ![Table](images/tabla.jpg)
+
 - The classification of attributes
 ![Classification](images/clasificacion.jpg)
+
 - Result of examples of implications
 ![Implication](images/implicacion.jpg)
 

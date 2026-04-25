@@ -76,8 +76,7 @@ Checks whether one attribute set implies another over the given relation.
 ## Repository structure
 ```bash
 .
-├── data/
-├── src/
+├── EXsept2024.txt (example)
 ├── images/
 ├── analisis_conceptos.ipynb
 └── README.md
